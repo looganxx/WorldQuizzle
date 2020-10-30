@@ -1,2 +1,2 @@
 # WorldQuizzle
-project of networks and computers
+Project of networks and computers
